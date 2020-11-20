@@ -85,7 +85,7 @@ public void testPrintMessage() {
 	
 	
 }
-//1.6 given NxN array. Rotate it 90 degrees
+//1.6 given NxN array. Rotate it 90 degrees clockwise
 @Test public void rotateNinety() {
 	LogicClass mainFile = new LogicClass();
 	String[][] input = {{"a","b","c","d"},
