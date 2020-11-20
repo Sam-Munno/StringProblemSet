@@ -9,11 +9,11 @@ Questions include: \
 1.5 Implement a method to perform a basic string compression using the counts of repeated characters. For example, the string aabcccccaa would become a2b1c5a3. String wont be longer then original, if so return original string \
 1.6 given NxN array. Rotate it 90 degrees clockwise \
 1.7 Write algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0. \
-1.8 Using a method "isSubstring" once how can you tell if two strings are a rotation of each other. ex: "sam" is rotation of "ams" \
+1.8 Using a method "isSubstring" once how can you tell if two strings are a rotation of each other. ex: "sam" is rotation of "ams" 
 
-# How to Run \
+# How to Run 
 1)Open project in java IDE. \
 2)Navigate to src/test/TestJunit.java \
-3)Right click and run as JUnit Test. \
+3)Right click and run as JUnit Test. 
 
 Enjoy. Try adding test cases to see if my code holds up. :)
