@@ -2,7 +2,7 @@
 This project uses TDD with JUnit 5 to solve "String" problem sets in Java. The questions are from "Cracking The Coding Interview" version 5. The solutions and the testing are my own. 
 
 Questions include:
-1.1  Implement an algorithm to determine if a string has all unique chars without additional data structure /n
+1.1  Implement an algorithm to determine if a string has all unique chars without additional data structure '/n'
 1.2 //Was C++ related question. I skipped. \n
 1.3  Given two Strings, write a method to decide if one is a permutation of the other. 
 1.4 Write a method to replace all spaces in a string with '%20;. You may assume that the string has sufficient space at the end of the string to hold the additional chars. Use Char Array.
